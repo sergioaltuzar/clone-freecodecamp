@@ -15,4 +15,6 @@ function Testimonio (){
       </div>
     </div>
   );
-}
+} 
+
+export default Testimonio;
